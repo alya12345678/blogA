@@ -1,0 +1,9 @@
+nav, footer {
+            border:3px solid rgb(221, 6, 34);
+            box-shadow: 1px 1px 10px rgb(201, 17, 17);
+            background-color: blueviolet;
+        }
+
+        nav, header { background-color: blueviolet;
+
+        }
